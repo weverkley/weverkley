@@ -1,4 +1,6 @@
 ### Hi there 👋
+You found me!
+I'm a software developer from Brazil.
 
 <!--
 **weverkley/weverkley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
