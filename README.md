@@ -23,6 +23,8 @@
 
 ###
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=weverkley&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/weverkley/count.svg?"  />
 </div>
