@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=weverkley&base=1000&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=weverkley&base=1000&abbreviated=false)
 
 <h1 align="center">Hey, I'm Wever Kley 👋<br>Full Stack Developer | DevOps | .NET | C# | Node | React | Angular | Azure | AWS</h1>
 
