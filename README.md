@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=weverkley&base=1000&abbreviated=true)
+
 <h1 align="center">Hey, I'm Wever Kley 👋<br>Full Stack Developer | DevOps | .NET | C# | Node | React | Angular | Azure | AWS</h1>
 
 ###
@@ -23,9 +25,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/weverkley/weverkley/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/weverkley/weverkley/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/weverkley/count.svg?"  />
-</div>
