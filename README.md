@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=weverkley)
 
-<h1 align="center">Hey, I'm Wever Kley 👋<br>Full Stack Developer | DevOps | .NET | C# | Node | React | Angular | Azure | AWS</h1>
+<h1 align="center">Hey, I'm Wever Kley 👋<br>Software Engineer | Full Stack Developer | .net | C# | Node | React | Angular | Azure | AWS</h1>
 
 ###
 
