@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">As a software engineer, I have over eight years of experience developing and maintaining applications for various industries, including healthcare. I have worked on projects involving Angular, ASP.NET Core, React Native and NestJs, using agile methodologies such as Scrum, worked as a DevOps, and automated CI/CD processes with tools such as Jenkins, Docker and Kubernetes in Windows and Linux environments. I am proficient in systems analysis, development and automation. I am passionate about creating innovative, automated and easy-to-use solutions that meet the needs of my clients. I am always eager to learn new technologies and improve my skills to deliver high-quality results.</p>
+<p align="left">As a software engineer, I have over eight years of experience developing and maintaining applications for various industries, including healthcare. I have worked on projects involving C#, ASP.NET Core, NodeJS, Golang, Python, Angular, React, React Native and NestJs, using agile methodologies such as Scrum, worked as a DevOps, using golang and automated CI/CD processes with tools such as Jenkins, Docker and Kubernetes in Windows and Linux environments. I am proficient in systems analysis, development and automation. I am passionate about creating innovative, automated and easy-to-use solutions that meet the needs of my clients. I am always eager to learn new technologies and improve my skills to deliver high-quality results.</p>
 
 ###
 
