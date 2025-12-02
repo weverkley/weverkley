@@ -11,7 +11,7 @@
 
 <h2 align="left">⚡ About Me</h2>
 
-I am a **Software Engineer** with over **8 years of experience** building scalable, high-performance applications. My core expertise lies in the **.NET ecosystem (C#)**, where I specialize in architecting complex backends and microservices.
+I am a **Software Engineer** with over **9 years of experience** building scalable, high-performance applications. My core expertise lies in the **.NET ecosystem (C#)**, where I specialize in architecting complex backends and microservices.
 
 As an **AI & Automation Expert**, I go beyond standard development by integrating **Generative AI** agents and building autonomous workflows that optimize efficiency. I leverage **Golang** and **Python** to orchestrate intelligent systems that reduce manual toil.
 
